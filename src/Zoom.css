@@ -1,0 +1,18 @@
+.join-button{
+  border: 1px, solid, #fff,
+}
+
+#ReactModal__Overlay{
+  width: 300px;
+  height: 300px;
+}
+
+#zmmtg-root{
+  width: 300px;
+  height: 300px;
+}
+
+#root-inner{
+  width: 300px;
+  height: 300px;
+}
